@@ -1,0 +1,6 @@
+[package]
+name = "tc-auth"
+version = "0.1.0"
+authors = ["Dustin J. Mitchell <dustin@mozilla.com>"]
+
+[dependencies]
